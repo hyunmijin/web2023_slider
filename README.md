@@ -3,6 +3,7 @@
 <ul>
   <li>사이트 : <a href="https://hyunmijin.github.io/web2023/javascript/slider/sliderEffect01.html" target="_blank">바로가기</a></li>
 </ul>
+<br><br>
 
 <ul>
   <li>트랜지션 효과</li>
