@@ -1,8 +1,4 @@
 # 이미지 슬라이드 효과
-
- 
- ![image](https://github.com/hyunmijin/web2023_slider/assets/125323270/65f438a8-64e0-41c3-b41c-bb2b44c8435b)
-
  
 
 <ul>
