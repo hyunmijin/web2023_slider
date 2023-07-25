@@ -1,7 +1,7 @@
 # 다양한 이미지 슬라이드 효과
  
 <ul>
-  <li>사이트 : <a href="https://hyunmijin.github.io/web2023/javascript/slider/sliderEffect01.html" target="_blank">바로가기</a></li>
+  <li>사이트 : https://hyunmijin.github.io/web2023/javascript/slider/sliderEffect01.html</li>
 </ul>
 <br><br>
 
